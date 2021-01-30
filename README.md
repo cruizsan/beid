@@ -30,4 +30,4 @@ Python for read belgian ID Card.
   * ex2.py (address only).
   * ex3.py (photo only + generate file).
   * example-electron-vue.
-    ![alt](https://github.com/cruizsan/beid/raw/master/image.png)
+    ![alt](https://github.com/cruizsan/beid/raw/main/image.png)
